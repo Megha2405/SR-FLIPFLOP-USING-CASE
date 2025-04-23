@@ -79,7 +79,7 @@ endmodule
 ![output](image.png)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![output](<Screenshot 2025-04-23 080958.png>)
+![output](<Screenshot 2025-04-23 091631.png>)
 
 **RESULTS**
         
