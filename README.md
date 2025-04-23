@@ -76,7 +76,7 @@ endmodule
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
-![output](<Screenshot 2025-04-23 080940.png>)
+![output](image.png)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![output](<Screenshot 2025-04-23 080958.png>)
